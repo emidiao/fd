@@ -27,7 +27,25 @@
       "id" : 1,
       "name": "MBT Italia Store",
       "address":"Via del Corso 10",
-      "city":"Roma"
+      "city":"Roma",
+      "lat":42.057331,
+      "lng":12.540542
+    },
+    {
+      "id" : 2,
+      "name": "MBT Italia SHOP",
+      "address":"Via del Babuino 10",
+      "city":"Roma",
+      "lat":41.957331,
+      "lng":12.340542
+    },
+    {
+      "id" : 3,
+      "name": "Nike Italia Store",
+      "address":"Via del Corso 2",
+      "city":"Roma",
+      "lat":42.257331,
+      "lng":12.740542
     }
   ]
 }
