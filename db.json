@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "ABCDE",
+      "name": "Prodotto A",
+      "price": 20,
+      "store_id":1
+    },
+    {
+      "id": 2,
+      "sku": "DBCDE",
+      "name": "Prodotto B",
+      "price": 10,
+      "store_id":1
+    },
+    {
+      "id": 3,
+      "sku": "BBBB",
+      "name": "Prodotto C",
+      "price": 26,
+      "store_id":1
+    }
+  ],
+  "stores": [
+    {
+      "id" : 1,
+      "name": "MBT Italia Store",
+      "address":"Via del Corso 10",
+      "city":"Roma"
+    }
+  ]
+}
