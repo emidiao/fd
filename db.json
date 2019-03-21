@@ -165,7 +165,7 @@
       "shippingAddressAddress1":null,
       "shippingAddressAddress2":null,
       "shippingAddressAddress3":null,
-      "timestamp":"201902131852434369"}"
+      "timestamp":"201902131852434369"
       },
       {
       "orderId":2,
@@ -198,10 +198,10 @@
       "refounded":0,
       "invoiceNumber":null,
       "transactionId":null,
-      "shippingAddressVia":piazza De' Andrè,
-      "shippingAddressCivico":1/5a,
-      "shippingAddressCitta":Città della Pieve,
-      "shippingAddressCAP":10254,
+      "shippingAddressVia":"piazza De' Andrè",
+      "shippingAddressCivico":"1/5a",
+      "shippingAddressCitta":"Città della Pieve",
+      "shippingAddressCAP":"10254",
       "shippingAddressProvincia":PV,
       "shippingAddressPaese":Italia,
       "shippingAddressAddress1":null,
@@ -209,5 +209,5 @@
       "shippingAddressAddress3":null,
       "timestamp":"201902141239201035"
       }
-           ]
+     ]
 }
