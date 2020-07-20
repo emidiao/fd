@@ -1,38 +1,20 @@
 {
-  "products": [
+  "news": [
     {
-      "productId":3,
-      "storeId":5,
-      "storeName":"Il Camiciaio",
-      "productName":"Camicia cotone bianca righe blu",
-      "productDescription":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
-      "productPrice":125.00,
-      "productStockQuantity":3,
-      "productCode":"s0005p0000003",
-      "quantity":1
+      "newsId":3,
+      "newsTitle":"Camicia cotone bianca righe blu",
+      "newsBody":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
     },
     {
-      "productId":4,
-      "storeId":5,
-      "storeName":"Il Camiciaio",
-      "productName":"Camicia cotone bianca righe blu",
-      "productDescription":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
-      "productPrice":125.00,
-      "productStockQuantity":3,
-      "productCode":"s0005p0000004",
-      "quantity":1
+      "newsId":3,
+      "newsTitle":"Camicia cotone bianca righe blu",
+      "newsBody":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
     },
     {
-      "productId":5,
-      "storeId":5,
-      "storeName":"Il Camiciaio",
-      "productName":"Camicia cotone bianca righe blu",
-      "productDescription":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
-      "productPrice":125.00,
-      "productStockQuantity":3,
-      "productCode":"s0005p0000005",
-      "quantity":1
-    }
+      "newsId":3,
+      "newsTitle":"Camicia cotone bianca righe blu",
+      "newsBody":"Prodotto confezionato interamente a mano. 100% cotone Made in Italy",
+    },
   ],
   "stores": [
     {
